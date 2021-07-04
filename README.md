@@ -14,7 +14,7 @@ Analysis was performed by comparing the data of the Outcomes against Launch-date
 
 ### Analysis of Outcomes Based on Goals
   Analysis was done on the Percentage of outcomes in relation with the expected goal of the pledged amount from investors. Line chart were created for this analysis to give a visual representations. Our first approach was to compare the outcomes of all kickstarter under the “theatre” with the month of the year when they were launched. In order to perform this analysis, we filtered the data for theatre category and created a table which summarises the different outcomes of a campaign (successful, failed and cancelled) for each month of the year. 
-  ![Theatre_Outcomes_Vs_Launch](https://user-images.githubusercontent.com/79813670/110271757-a41b3300-7f96-11eb-876d 150b75f5c26c.png)
+![Theatre_Outcomes_Vs_Launch](https://user-images.githubusercontent.com/79813670/124402497-8f5d6a80-dcfe-11eb-904a-171d0feacce1.png)
   
   Our second approach was to compare the outcomes of all kickstarter campaigns under the sub-category “plays” and compare them with their goals. In order to do this, we filtered the data for plays sub-category and then created a table which summarises the different outcomes of a campaign (successful, failed and cancelled) for different ranges of goals. The goal ranges are segregated with an interval of $5,000. We then created a line chart to visualize the data
   ![Outcomes_Vs_Goals](https://user-images.githubusercontent.com/79813670/110271794-b5643f80-7f96-11eb-90e1-c0b800a12660.png)
