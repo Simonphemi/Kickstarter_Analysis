@@ -25,16 +25,20 @@ Analysis was performed by comparing the data of the Outcomes against Launch-date
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 1. The month of May appears to be the most viable month in regards to achieving a successful campaign since may has the highest number of successful campaigns.
 2. Based on this analysis, the month of May also appears to be the busiest month when it comes to campaign launches under the theater category. Over time, the month of May has the highest number of campaigns launched in a given month.
 
 - The percentage of successful outcomes in relation with the pledge goals starts of high, however slowly declines as the donated amount rises towards the $50,000 mark
+
   Campaigns which have a target of 5,000 or less appear to be the most successful campaigns. The range 1,000 to 4,999 have the highest number of successful campaigns as well as a very close second, when comparing percentages.
 
 - What are some limitations of this dataset?
+
   One limitation found is the dataset used to compare campaign outcomes with campaign start dates is the category used. The theater category was used but would have had a better result if we went further by select the plays sub-category.
 
 - What are some other possible tables and/or graphs that we could create?
+
   We could take a subset of the successful campaigns for each goal range and compare the actual funds raised with the goal fund to be raised. We could use that to estimate the amount or percentage by which we are likely to exceed our goal for each goal range. This could be represented on bar charts and pivot tables
 
 
